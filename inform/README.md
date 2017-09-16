@@ -1,3 +1,3 @@
-## INFORM Main Indicators as of Fri, 15 Sep 2017 03:27:21 GMT
+## INFORM Main Indicators as of Sat, 16 Sep 2017 03:27:27 GMT
 
 Source: **INFORM (Index For Risk Management) - http://www.inform-index.org**
