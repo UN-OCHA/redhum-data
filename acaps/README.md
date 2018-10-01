@@ -1,3 +1,3 @@
-## Situation Overview per Country as of Sun, 30 Sep 2018 03:17:19 GMT
+## Situation Overview per Country as of Mon, 01 Oct 2018 03:17:21 GMT
 
 Source: **ACAPS (Assessment Capacities Project) - https://www.acaps.org**
