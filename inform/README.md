@@ -1,3 +1,3 @@
-## INFORM Main Indicators as of Wed, 03 Apr 2019 03:27:08 GMT
+## INFORM Main Indicators as of Thu, 04 Apr 2019 03:26:46 GMT
 
 Source: **INFORM (Index For Risk Management) - http://www.inform-index.org**
