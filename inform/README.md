@@ -1,3 +1,3 @@
-## INFORM Main Indicators as of Wed, 09 Sep 2020 15:35:54 GMT
+## INFORM Main Indicators as of Sat, 12 Sep 2020 00:20:10 GMT
 
 Source: **INFORM (Index For Risk Management) - http://www.inform-index.org**
