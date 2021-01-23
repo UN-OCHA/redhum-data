@@ -1,3 +1,3 @@
-## INFORM Main Indicators as of Sat, 16 Jan 2021 00:20:07 GMT
+## INFORM Main Indicators as of Sat, 23 Jan 2021 00:20:07 GMT
 
 Source: **INFORM (Index For Risk Management) - http://www.inform-index.org**
